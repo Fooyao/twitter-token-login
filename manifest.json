@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_icon": "icons/logo.png",
+      "default_popup": "index.html"
+   },
+   "description": "Logging into a Twitter account using a token",
+   "icons": {
+      "128": "icons/logo.png"
+   },
+   "content_scripts": [
+      {
+        "matches": ["https://twitter.com/*"],
+        "js": ["script.js"],
+        "css": ["style.css"]
+      }
+    ],
+   "permissions": ["scripting" , "tabs"],
+   "host_permissions": ["https://twitter.com/*"],
+   "manifest_version": 3,
+   "name": "Twitter Token Login",
+   "version": "1.0"
+}
