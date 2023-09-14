@@ -1,4 +1,3 @@
-![logo](https://github.com/hashbuddhastore/twitter-login-token/assets/131252579/9a0c3e08-c241-4773-be2e-a481c6a877a5)
-# twitter-login-token
-Extensions for Chrome logging into a Twitter account using a token
+便宜Twitter令牌号：[hdd.cm](https://hdd.cm/)  单价低至0.25元
 
+使用方法，下载整个项目，解压，chrome管理扩展，开发者模式，加载已解压的扩展程序
