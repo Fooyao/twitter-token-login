@@ -1,4 +1,4 @@
-body {
+.twitter-token-login-popup {
     background-color: #f4f4f4;
     color: #333;
     display: flex;
@@ -9,7 +9,6 @@ body {
     margin: 0;
     font-family: 'VT323', monospace;
 }
-
 
 
 .inner-container {
