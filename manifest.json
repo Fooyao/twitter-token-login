@@ -14,7 +14,7 @@
         "css": ["style.css"]
       }
     ],
-   "permissions": ["scripting" , "tabs"],
+   "permissions": ["scripting"],
    "host_permissions": ["https://twitter.com/*"],
    "manifest_version": 3,
    "name": "Twitter Token Login",
